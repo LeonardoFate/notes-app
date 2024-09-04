@@ -30,7 +30,7 @@ Características
 Instalación
 1. Clona este repositorio:
 
-<pre><span><span>#</span> development</span>
+
 git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
 
