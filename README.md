@@ -44,20 +44,24 @@ npm install
 
 # Uso
 
-1. Configura las variables de entorno creando un archivo .env en el backend. Ejemplo de archivo .env:
+### 1. Configura las variables de entorno creando un archivo .env en el backend. Ejemplo de archivo .env:
 
 ```bash
 MONGO_URI=mongodb:"Conexion a tu base de datos MDB"
 PORT=3001
 ```
-2. Inicia el servidor backend:
+### 2. Inicia el servidor backend:
 
 ```bash
 cd notes-app-server
 npm run start:dev
 ```
-3. Inicia el servidor frontend:
+### 3. Inicia el servidor frontend:
 ```bash
-cd notes-app-server
-npm run start:dev
+cd ../notes-app
+npm start
 ```
+
+### Abre el navegador en http://localhost:3000 para utilizar la aplicación.
+
+
