@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a84b6c2-9f87-495e-97ec-46c8224d735e)
+
 
 Notes-App
 
@@ -33,4 +33,12 @@ git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
 
 
-
+Ejecutar la aplicación
+Desarrollo
+bash
+Copiar código
+npm run start
+Modo Watch
+bash
+Copiar código
+npm run start:dev
