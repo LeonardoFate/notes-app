@@ -35,7 +35,9 @@ git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
 
 
-Instalación
+ 
+
+Dependencias
 <h2 tabindex="-1" class="heading-element" dir="auto">Clona el repositorio</h2>
 
 <pre><span><span>#</span></span>
