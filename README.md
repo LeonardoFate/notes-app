@@ -29,11 +29,10 @@ Características
 
 Instalación
 1. Clona este repositorio:
-git clone https://github.com/LeonardoFate/notes-app.git
 
 <pre><span><span>#</span> development</span>
-$ npm run start
+git clone https://github.com/LeonardoFate/notes-app.git
+cd notes-app
 <p dir="auto"><span><span>#</span> watch mode</span>
-$ npm run start:dev</p>
+
 <p dir="auto"><span><span>#</span> production mode</span>
-$ npm run start:prod</p></pre>
