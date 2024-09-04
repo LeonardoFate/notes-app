@@ -26,12 +26,12 @@ Características
  * Backend eficiente con Express y Node.js.
  * Almacenamiento de notas en MongoDB.
 
-<h2 tabindex="-1" class="heading-element" dir="auto">Clona el repositorio</h2>
+<h2 tabindex="-1" class="heading-element">Clona el repositorio</h2>
 
-
+<pre><span><span>
 git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
-
+</span></span>
 
  
 
