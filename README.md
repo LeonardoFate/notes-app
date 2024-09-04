@@ -28,14 +28,9 @@ Características
 
 
 Instalación
-1. Clona este repositorio:
+<h2 tabindex="-1" class="heading-element" dir="auto">Clona el repositorio</h2>
 
-<h2 tabindex="-1" class="heading-element" dir="auto">Running the mongodb container with docker-compose</h2>
-
-<pre><span><span>#</span> development</span>
+<pre><span><span>#</span></span>
 git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
-<p dir="auto"><span><span>#</span> watch mode</span>
-
-<p dir="auto"><span><span>#</span> production mode</span>
 
