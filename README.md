@@ -1,6 +1,6 @@
 
 
-# Full Stack Project – Create A Notes App Using React and Node.js
+# Proyecto Full Stack – Crear una aplicación de notas utilizando React y Node.js
 
 Notes-App es una aplicación para gestionar y almacenar notas, desarrollada con una arquitectura de frontend 
 y backend separados, utilizando tecnologías modernas como React y Node.js.
