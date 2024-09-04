@@ -27,3 +27,6 @@ Características
  * Almacenamiento de notas en MongoDB.
 
 ## Clona el repositorio
+```bash
+git clone https://github.com/LeonardoFate/notes-app.git
+cd notes-app
