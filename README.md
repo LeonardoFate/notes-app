@@ -43,3 +43,11 @@ npm install
 ```
 
 # Uso
+
+Configura las variables de entorno creando un archivo .env en el backend. Ejemplo de archivo .env:
+
+## 3. Instalación de dependencias del backend:
+```bash
+cd notes-app-server
+npm install
+```
