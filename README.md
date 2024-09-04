@@ -62,6 +62,12 @@ cd ../notes-app
 npm start
 ```
 
-### Abre el navegador en http://localhost:3000 para utilizar la aplicación.
+### Abre el navegador en http://localhost:port para utilizar la aplicación.
 
 
+## Contribuir
+Las contribuciones son bienvenidas. Si deseas colaborar, puedes abrir un issue o un pull request.
+
+## Inspiración
+
+Este proyecto fue desarrollado como una herramienta simple para la gestión de notas, utilizando tecnologías modernas como React, TypeScript y Node.js
