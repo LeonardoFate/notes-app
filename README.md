@@ -25,18 +25,18 @@ Características
  * Backend eficiente con Express y Node.js.
  * Almacenamiento de notas en MongoDB.
 
-## 1. Clona el repositorio
+### 1. Clona el repositorio
 ```bash
 git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
 ```
-## 2. Instalación de dependencias del frontend:
+### 2. Instalación de dependencias del frontend:
 ```bash
 cd notes-app
 npm install
 ```
 
-## 3. Instalación de dependencias del backend:
+### 3. Instalación de dependencias del backend:
 ```bash
 cd notes-app-server
 npm install
