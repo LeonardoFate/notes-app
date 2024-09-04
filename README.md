@@ -30,7 +30,7 @@ Características
 ```bash
 git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
-
+```
 ## 2. Instalación de dependencias del frontend:
 ```bash
 git clone https://github.com/LeonardoFate/notes-app.git
