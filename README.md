@@ -33,6 +33,4 @@ Instalación
 <pre><span><span>#</span> development</span>
 git clone https://github.com/LeonardoFate/notes-app.git
 cd notes-app
-<p dir="auto"><span><span>#</span> watch mode</span>
 
-<p dir="auto"><span><span>#</span> production mode</span>
