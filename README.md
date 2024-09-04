@@ -30,15 +30,9 @@ Características
 Instalación
 1. Clona este repositorio:
 git clone https://github.com/LeonardoFate/notes-app.git
-cd notes-app
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-bash"><span class="hljs-comment"># Levantar el contenedor</span>
+docker-compose up -d
 
-
-Ejecutar la aplicación
-Desarrollo
-bash
-Copiar código
-npm run start
-Modo Watch
-bash
-Copiar código
-npm run start:dev
+<span class="hljs-comment"># Detener el contenedor</span>
+docker-compose down
+</code></div>
